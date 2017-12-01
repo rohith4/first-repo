@@ -1,2 +1,1 @@
-# first-repo
-sample
+creating new repo
